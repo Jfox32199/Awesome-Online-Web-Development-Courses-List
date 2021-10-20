@@ -34,7 +34,7 @@ Shortcuts
 * [Angular Enterprise Playbook](http://angularplaybook.com)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
-* [CoursesOnline] (https://www.coursesonline.co.uk/courses/web-development/) 
+* [CoursesOnline](https://www.coursesonline.co.uk/courses/web-development/) 
 * [Coursera](https://www.coursera.org/browse/computer-science) (Computer Science)
 * [coursetro](https://coursetro.com)
 * [Devslopes](https://devslopes.com)
