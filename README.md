@@ -60,6 +60,7 @@ Shortcuts
 * [Nodecasts](http://nodecasts.io)
 * [Node University](https://node.university/)
 * [Open Culture](http://www.openculture.com/freeonlinecourses)
+* [Open Study College](https://www.openstudycollege.com/computers-it-courses)
 * [Packt Publishing](https://www.packtpub.com/)
 * [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
